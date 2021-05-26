@@ -1,1 +1,328 @@
-<svg id="hivebeakerlayers-clean" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" style="background-color:rgb(255,255,255)"><style><![CDATA[#hivebeakerlayers-clean-cog_tr {animation: hivebeakerlayers-clean-cog_tr__tr 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-cog_tr__tr { 0% {transform: translate(500.616515px,702.520000px) rotate(0deg)} 100% {transform: translate(500.616515px,702.520000px) rotate(360deg)}} #hivebeakerlayers-clean-bubblebottom1_to {animation: hivebeakerlayers-clean-bubblebottom1_to__to 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubblebottom1_to__to { 0% {transform: translate(568.280020px,760.840033px)} 100% {transform: translate(568.020020px,634.190033px)}} #hivebeakerlayers-clean-bubblebottom1 {animation: hivebeakerlayers-clean-bubblebottom1_c_o 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubblebottom1_c_o { 0% {opacity: 1} 96.666667% {opacity: 1} 100% {opacity: 0}} #hivebeakerlayers-clean-bubblebottom2_to {animation: hivebeakerlayers-clean-bubblebottom2_to__to 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubblebottom2_to__to { 0% {transform: translate(460px,716px)} 40% {transform: translate(471.579898px,663.650055px)} 100% {transform: translate(470.519989px,594.650055px)}} #hivebeakerlayers-clean-bubblebottom2 {animation: hivebeakerlayers-clean-bubblebottom2_c_o 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubblebottom2_c_o { 0% {opacity: 0.980000} 93.333333% {opacity: 0.980000} 100% {opacity: 0}} #hivebeakerlayers-clean-bubblebottom3_to {animation: hivebeakerlayers-clean-bubblebottom3_to__to 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubblebottom3_to__to { 0% {transform: translate(515.619973px,770.380188px)} 100% {transform: translate(512.659973px,493.429993px)}} #hivebeakerlayers-clean-bubblebottom3 {animation: hivebeakerlayers-clean-bubblebottom3_c_o 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubblebottom3_c_o { 0% {opacity: 1} 90% {opacity: 1} 100% {opacity: 0}} #hivebeakerlayers-clean-bubble4_to {animation: hivebeakerlayers-clean-bubble4_to__to 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubble4_to__to { 0% {transform: translate(500.616534px,744.770203px)} 100% {transform: translate(492.050018px,282.680008px)}} #hivebeakerlayers-clean-bubble4 {animation: hivebeakerlayers-clean-bubble4_c_o 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubble4_c_o { 0% {opacity: 1} 86.666667% {opacity: 1} 100% {opacity: 0}} #hivebeakerlayers-clean-bubble5_to {animation: hivebeakerlayers-clean-bubble5_to__to 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubble5_to__to { 0% {transform: translate(587.484150px,770.380188px)} 40% {transform: translate(527.305998px,519.064110px)} 60% {transform: translate(530.869998px,413.019404px)} 80% {transform: translate(531px,306.974698px)} 86.666667% {transform: translate(542px,271.626463px)} 100% {transform: translate(602.559998px,200.929993px)}} #hivebeakerlayers-clean-bubble5 {animation: hivebeakerlayers-clean-bubble5_c_o 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubble5_c_o { 0% {opacity: 0.980000} 83.333333% {opacity: 0.980000} 100% {opacity: 0}} #hivebeakerlayers-clean-bubbletop6_to {animation: hivebeakerlayers-clean-bubbletop6_to__to 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubbletop6_to__to { 0% {transform: translate(457.299993px,754.760188px)} 26.666667% {transform: translate(498.332104px,558.319993px)} 100% {transform: translate(476.929993px,74.949993px)}} #hivebeakerlayers-clean-bubbletop6 {animation: hivebeakerlayers-clean-bubbletop6_c_o 3000ms linear infinite normal forwards}@keyframes hivebeakerlayers-clean-bubbletop6_c_o { 0% {opacity: 1} 76.666667% {opacity: 1} 100% {opacity: 0}}]]></style><g id="hivebeakerlayers-clean-mask-group" mask="url(#hivebeakerlayers-clean-masks)"><g id="hivebeakerlayers-clean-cog_tr" transform="translate(500.616515,702.520000) rotate(0)"><path id="hivebeakerlayers-clean-cog" d="M784.260000,727C786.060000,701.740000,785.650000,683.190000,782.260000,661L725.850000,651.650000L706.710000,598.260000L744.350000,555.140000C732.935482,536.248439,719.397489,518.724538,704,502.910000L652.720000,528.730000L606.450000,496.290000L611.670000,439.240000C587.720000,429.510000,575.810000,426.150000,548.410000,420.660000Q535.290000,446.130000,522.150000,471.610000L465.390000,473.210000L436.080000,423.930000C407.350000,431.260000,395.010000,436.380000,373.910000,446.220000L382.480000,502.840000L337.560000,537.560000L285.560000,514.940000C271.047355,531.531084,258.513181,549.753456,248.210000,569.240000L288.210000,610.110000L272.100000,664.490000L216.240000,677.080000C213.500000,695.650000,214.710000,722.930000,217.600000,743.080000L274.490000,752.440000L293.400000,806L255.560000,849C266.939021,867.979081,280.461027,885.587887,295.860000,901.480000L347.140000,875.880000L393.850000,907.880000L388.580000,964.880000C408.865079,973.526796,430.087979,979.782249,451.820000,983.520000L478.130000,932.590000L534.890000,931.050000L564.160000,980.360000C585.670851,975.359978,606.534789,967.900903,626.340000,958.130000L617.830000,901.500000L662.780000,866.820000L715.400000,889.330000C729.953308,872.719749,742.490436,854.446087,752.750000,834.890000L712.510000,794.160000L728.410000,739.640000ZM501.500000,890.740000C397.950000,890.740000,314,806.740000,314,703.240000C314,599.740000,398,515.740000,501.500000,515.740000C605,515.740000,689,599.740000,689,703.240000C689,806.740000,605.060000,890.740000,501.500000,890.740000Z" transform="translate(-500.006515,-702.090000)" fill="rgb(50,50,60)" stroke="none" stroke-width="1"/></g><mask id="hivebeakerlayers-clean-masks" mask-type="luminance"><path id="hivebeakerlayers-clean-path1" d="M-0.610000,-0.430000L-0.610000,999.570000L999.390000,999.570000L999.390000,-0.430000ZM501.500000,890.740000C397.950000,890.740000,314,806.740000,314,703.240000C313.992054,627.948553,359.012323,559.951526,428.330000,530.560000L428.330000,302.870000L567.670000,302.870000L567.670000,527.770000C640.681470,555.320378,689.002648,625.203482,689,703.240000C689,806.790000,605.060000,890.740000,501.500000,890.740000Z" transform="matrix(1 0 0 1 0.61000000000000 0.43000000000000)" fill="rgb(255,255,255)" stroke="none" stroke-width="1"/></mask></g><path id="hivebeakerlayers-clean-liquid" d="M581.900000,721.690000C550.460000,718.810000,522.460000,706.780000,493.690000,695.690000C456.270691,680.956661,415.453328,677.081507,375.930000,684.510000C363.776081,686.678420,351.774543,689.627866,340,693.340000L340,696.160000C339.997741,782.352845,407.138487,853.629660,493.177684,858.773883C579.216882,863.918107,654.372135,801.149072,664.640000,715.570000C637.601846,722.236106,609.634728,724.304990,581.910000,721.690000Z" transform="matrix(1 0 0 1 0.61000000000000 0.43000000000000)" fill="rgb(199,32,38)" stroke="none" stroke-width="1"/><g id="hivebeakerlayers-clean-bubblebottom1_to" transform="translate(568.280020,760.840033)"><circle id="hivebeakerlayers-clean-bubblebottom1" r="30.110000" transform="translate(-0.000020,-0.000033)" fill="rgb(199,32,38)" stroke="none" stroke-width="1"/></g><g id="hivebeakerlayers-clean-bubblebottom2_to" transform="translate(460,716)"><circle id="hivebeakerlayers-clean-bubblebottom2" r="10.165000" transform="translate(0.000011,-0.245055)" opacity="0.98" fill="rgb(199,32,38)" stroke="none" stroke-width="1"/></g><g id="hivebeakerlayers-clean-bubblebottom3_to" transform="translate(515.619973,770.380188)"><circle id="hivebeakerlayers-clean-bubblebottom3" r="15.620000" transform="translate(0.000027,0.000007)" fill="rgb(199,32,38)" stroke="none" stroke-width="1"/></g><g id="hivebeakerlayers-clean-bubble4_to" transform="translate(500.616534,744.770203)"><circle id="hivebeakerlayers-clean-bubble4" r="25.610000" transform="translate(-0.000018,-0.000008)" fill="rgb(199,32,38)" stroke="none" stroke-width="1"/></g><g id="hivebeakerlayers-clean-bubble5_to" transform="translate(587.484150,770.380188)"><circle id="hivebeakerlayers-clean-bubble5" r="40.870000" transform="translate(0.000002,0.000007)" opacity="0.98" fill="rgb(199,32,38)" stroke="none" stroke-width="1"/></g><g id="hivebeakerlayers-clean-bubbletop6_to" transform="translate(457.299993,754.760188)"><circle id="hivebeakerlayers-clean-bubbletop6" r="58.320000" transform="translate(0.000007,0.000007)" fill="rgb(199,32,38)" stroke="none" stroke-width="1"/></g><path id="hivebeakerlayers-clean-beakerleft" d="M428.320000,529.660000L428.320000,302.870000L336.870000,302.870000L336.870000,363.640000L376.410000,363.640000L376.410000,508.270000L376.410000,508.270000L428.300000,529.670000Z" transform="matrix(1 0 0 1 0.61000000000000 0.43000000000000)" fill="rgb(50,50,60)" stroke="none" stroke-width="1"/><path id="hivebeakerlayers-clean-beakerright" d="M616.840000,363.570000L663.130000,363.570000L663.130000,302.870000L567.670000,302.870000L567.670000,528.110000L567.670000,528.110000L616.810000,504.460000Z" transform="matrix(1 0 0 1 0.61000000000000 0.43000000000000)" fill="rgb(50,50,60)" stroke="none" stroke-width="1"/></svg>
+<svg id="hivebeakerlayers-clean3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 1000 1000" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"
+    style="background-color:transparent">
+    <style>
+        <![CDATA[
+        #hivebeakerlayers-clean3-gear_tr {
+            animation: hivebeakerlayers-clean3-gear_tr__tr 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-gear_tr__tr {
+            0% {
+                transform: translate(500.616515px, 702.520000px) rotate(0deg)
+            }
+
+            100% {
+                transform: translate(500.616515px, 702.520000px) rotate(360deg)
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble6-fromto_to {
+            animation: hivebeakerlayers-clean3-bubble6-fromto_to__to 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble6-fromto_to__to {
+            0% {
+                transform: translate(589.540017px, 765.340026px)
+            }
+
+            56.666667% {
+                transform: translate(589.540017px, 765.340026px)
+            }
+
+            100% {
+                transform: translate(568.020020px, 634.190033px)
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble6-fromto {
+            animation: hivebeakerlayers-clean3-bubble6-fromto_c_o 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble6-fromto_c_o {
+            0% {
+                opacity: 1
+            }
+
+            80% {
+                opacity: 1
+            }
+
+            100% {
+                opacity: 0
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble5-fromto_to {
+            animation: hivebeakerlayers-clean3-bubble5-fromto_to__to 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble5-fromto_to__to {
+            0% {
+                transform: translate(412.129993px, 745.835541px)
+            }
+
+            73.333333% {
+                transform: translate(412.129993px, 745.835541px)
+            }
+
+            100% {
+                transform: translate(470.519989px, 594.650055px)
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble5-fromto {
+            animation: hivebeakerlayers-clean3-bubble5-fromto_c_o 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble5-fromto_c_o {
+            0% {
+                opacity: 1
+            }
+
+            76.666667% {
+                opacity: 1
+            }
+
+            96.666667% {
+                opacity: 0
+            }
+
+            100% {
+                opacity: 0
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble4-fromto_to {
+            animation: hivebeakerlayers-clean3-bubble4-fromto_to__to 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble4-fromto_to__to {
+            0% {
+                transform: translate(538.328973px, 751.045479px)
+            }
+
+            53.333333% {
+                transform: translate(538.328973px, 751.045479px)
+            }
+
+            100% {
+                transform: translate(512.659973px, 493.429993px)
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble4-fromto {
+            animation: hivebeakerlayers-clean3-bubble4-fromto_c_o 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble4-fromto_c_o {
+            0% {
+                opacity: 1
+            }
+
+            73.333333% {
+                opacity: 1
+            }
+
+            100% {
+                opacity: 0
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble3-fromto_to {
+            animation: hivebeakerlayers-clean3-bubble3-fromto_to__to 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble3-fromto_to__to {
+            0% {
+                transform: translate(434.500018px, 761.035494px)
+            }
+
+            33.333333% {
+                transform: translate(434.500018px, 761.035494px)
+            }
+
+            100% {
+                transform: translate(492.050018px, 282.680008px)
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble3-fromto {
+            animation: hivebeakerlayers-clean3-bubble3-fromto_c_o 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble3-fromto_c_o {
+            0% {
+                opacity: 1
+            }
+
+            63.333333% {
+                opacity: 1
+            }
+
+            100% {
+                opacity: 0.010000
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble2-fromto_to {
+            animation: hivebeakerlayers-clean3-bubble2-fromto_to__to 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble2-fromto_to__to {
+            0% {
+                transform: translate(548.669998px, 773.021573px)
+            }
+
+            13.333333% {
+                transform: translate(548.669998px, 773.021573px)
+            }
+
+            43.333333% {
+                transform: translate(527.410000px, 590.328571px)
+            }
+
+            70% {
+                transform: translate(513.541500px, 407.082181px)
+            }
+
+            86.666667% {
+                transform: translate(527.410000px, 292.553188px)
+            }
+
+            100% {
+                transform: translate(602.559998px, 200.929993px)
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble2-fromto {
+            animation: hivebeakerlayers-clean3-bubble2-fromto_c_o 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble2-fromto_c_o {
+            0% {
+                opacity: 1
+            }
+
+            73.333333% {
+                opacity: 1
+            }
+
+            100% {
+                opacity: 0
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble1-fromto_to {
+            animation: hivebeakerlayers-clean3-bubble1-fromto_to__to 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble1-fromto_to__to {
+            0% {
+                transform: translate(455.959998px, 760.840000px)
+            }
+
+            36.666667% {
+                transform: translate(499.699332px, 510.974996px)
+            }
+
+            70% {
+                transform: translate(493.730000px, 272.331145px)
+            }
+
+            100% {
+                transform: translate(476.929993px, 74.949993px)
+            }
+        }
+
+        #hivebeakerlayers-clean3-bubble1-fromto {
+            animation: hivebeakerlayers-clean3-bubble1-fromto_c_o 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-bubble1-fromto_c_o {
+            0% {
+                opacity: 1
+            }
+
+            83.333333% {
+                opacity: 1
+            }
+
+            100% {
+                opacity: 0
+            }
+        }
+
+        #hivebeakerlayers-clean3-liquid_to {
+            animation: hivebeakerlayers-clean3-liquid_to__to 3000ms linear infinite normal forwards
+        }
+
+        @keyframes hivebeakerlayers-clean3-liquid_to__to {
+            0% {
+                transform: translate(338.150000px, 2.827383px)
+            }
+
+            100% {
+                transform: translate(-334.080000px, 2.827383px)
+            }
+        }
+        ]]>
+    </style>
+    <g id="hivebeakerlayers-clean3-mask-group" mask="url(#hivebeakerlayers-clean3-masks)">
+        <g id="hivebeakerlayers-clean3-gear_tr" transform="translate(500.616515,702.520000) rotate(0)">
+            <path id="hivebeakerlayers-clean3-gear"
+                d="M784.260000,727C786.060000,701.740000,785.650000,683.190000,782.260000,661L725.850000,651.650000L706.710000,598.260000L744.350000,555.140000C732.935482,536.248439,719.397489,518.724538,704,502.910000L652.720000,528.730000L606.450000,496.290000L611.670000,439.240000C587.720000,429.510000,575.810000,426.150000,548.410000,420.660000Q535.290000,446.130000,522.150000,471.610000L465.390000,473.210000L436.080000,423.930000C407.350000,431.260000,395.010000,436.380000,373.910000,446.220000L382.480000,502.840000L337.560000,537.560000L285.560000,514.940000C271.047355,531.531084,258.513181,549.753456,248.210000,569.240000L288.210000,610.110000L272.100000,664.490000L216.240000,677.080000C213.500000,695.650000,214.710000,722.930000,217.600000,743.080000L274.490000,752.440000L293.400000,806L255.560000,849C266.939021,867.979081,280.461027,885.587887,295.860000,901.480000L347.140000,875.880000L393.850000,907.880000L388.580000,964.880000C408.865079,973.526796,430.087979,979.782249,451.820000,983.520000L478.130000,932.590000L534.890000,931.050000L564.160000,980.360000C585.670851,975.359978,606.534789,967.900903,626.340000,958.130000L617.830000,901.500000L662.780000,866.820000L715.400000,889.330000C729.953308,872.719749,742.490436,854.446087,752.750000,834.890000L712.510000,794.160000L728.410000,739.640000ZM501.500000,890.740000C397.950000,890.740000,314,806.740000,314,703.240000C314,599.740000,398,515.740000,501.500000,515.740000C605,515.740000,689,599.740000,689,703.240000C689,806.740000,605.060000,890.740000,501.500000,890.740000Z"
+                transform="translate(-500.006515,-702.090000)" fill="rgb(50,50,60)" stroke="none" stroke-width="1" />
+        </g>
+        <mask id="hivebeakerlayers-clean3-masks" mask-type="luminance">
+            <path id="hivebeakerlayers-clean3-maskgear"
+                d="M-0.610000,-0.430000L-0.610000,999.570000L999.390000,999.570000L999.390000,-0.430000ZM501.500000,890.740000C397.950000,890.740000,314,806.740000,314,703.240000C313.992054,627.948553,359.012323,559.951526,428.330000,530.560000L428.330000,302.870000L567.670000,302.870000L567.670000,527.770000C640.681470,555.320378,689.002648,625.203482,689,703.240000C689,806.790000,605.060000,890.740000,501.500000,890.740000Z"
+                transform="matrix(1 0 0 1 0.61000000000000 0.43000000000000)" fill="rgb(255,255,255)" stroke="none"
+                stroke-width="1" />
+        </mask>
+    </g>
+    <g id="hivebeakerlayers-clean3-bubble6-fromto_to" transform="translate(589.540017,765.340026)">
+        <circle id="hivebeakerlayers-clean3-bubble6-fromto" r="30.110000" transform="translate(-0.000020,-0.000033)"
+            fill="rgb(199,32,38)" stroke="none" stroke-width="1" />
+    </g>
+    <g id="hivebeakerlayers-clean3-bubble5-fromto_to" transform="translate(412.129993,745.835541)">
+        <circle id="hivebeakerlayers-clean3-bubble5-fromto" r="10.410000" transform="translate(0.000011,-0.000055)"
+            fill="rgb(199,32,38)" stroke="none" stroke-width="1" />
+    </g>
+    <g id="hivebeakerlayers-clean3-bubble4-fromto_to" transform="translate(538.328973,751.045479)">
+        <circle id="hivebeakerlayers-clean3-bubble4-fromto" r="15.620000" transform="translate(0.000027,0.000007)"
+            fill="rgb(199,32,38)" stroke="none" stroke-width="1" />
+    </g>
+    <g id="hivebeakerlayers-clean3-bubble3-fromto_to" transform="translate(434.500018,761.035494)">
+        <circle id="hivebeakerlayers-clean3-bubble3-fromto" r="25.610000" transform="translate(-0.000018,-0.000008)"
+            fill="rgb(199,32,38)" stroke="none" stroke-width="1" />
+    </g>
+    <g id="hivebeakerlayers-clean3-bubble2-fromto_to" transform="translate(548.669998,773.021573)">
+        <circle id="hivebeakerlayers-clean3-bubble2-fromto" r="40.870000" transform="translate(-0,-3.851579)"
+            fill="rgb(199,32,38)" stroke="none" stroke-width="1" />
+    </g>
+    <g id="hivebeakerlayers-clean3-bubble1-fromto_to" transform="translate(455.959998,760.840000)">
+        <circle id="hivebeakerlayers-clean3-bubble1-fromto" r="58.320000" transform="translate(-6.480000,-0)"
+            fill="rgb(199,32,38)" stroke="none" stroke-width="1" />
+    </g>
+    <path id="hivebeakerlayers-clean3-flaskright"
+        d="M616.840000,363.570000L663.130000,363.570000L663.130000,302.870000L567.670000,302.870000L567.670000,528.110000L567.670000,528.110000L616.810000,504.460000Z"
+        transform="matrix(1 0 0 1 0.61000000000000 0.43000000000000)" fill="rgb(50,50,60)" stroke="none"
+        stroke-width="1" />
+    <path id="hivebeakerlayers-clean3-flaskleft"
+        d="M428.320000,529.660000L428.320000,302.870000L336.870000,302.870000L336.870000,363.640000L376.410000,363.640000L376.410000,508.270000L376.410000,508.270000L428.300000,529.670000Z"
+        transform="matrix(1 0 0 1 0.61000000000000 0.43000000000000)" fill="rgb(50,50,60)" stroke="none"
+        stroke-width="1" />
+    <g id="hivebeakerlayers-clean3-mask-group2" mask="url(#hivebeakerlayers-clean3-masks2)">
+        <g id="hivebeakerlayers-clean3-liquid_to" transform="translate(338.150000,2.827383)">
+            <path id="hivebeakerlayers-clean3-liquid"
+                d="M916.910000,720.820000C889.677783,717.286010,863.184380,709.427111,838.430000,697.540000C822.437115,690.964297,805.780403,686.136265,788.750000,683.140000C741.230000,674.800000,701.090000,685.940000,677.850000,693.140000C621.510000,710.670000,614.720000,717.140000,572.160000,726.190000C486.330000,744.440000,456.520000,673.640000,378.160000,698.770000C363.620000,703.430000,320.650000,719.890000,285.160000,722.200000C270.149734,723.203852,255.077111,722.728227,240.160000,720.780000C213.870000,717.140000,201.040000,713.670000,161.680000,697.500000C145.687115,690.924297,129.030403,686.096265,112,683.100000C73.300000,676.310000,36.050000,682.100000,1.100000,693.100000C0.500000,693.280000,-0.080000,693.480000,-0.670000,693.670000L-0.670000,859.670000L999.330000,859.670000L999.330000,716.340000C975,721.780000,947.930000,724.780000,916.910000,720.820000Z"
+                transform="translate(0,0)" fill="rgb(199,32,38)" stroke="none" stroke-width="1" />
+        </g>
+        <mask id="hivebeakerlayers-clean3-masks2" mask-type="luminance">
+            <circle id="hivebeakerlayers-clean3-maskliquid" r="160"
+                transform="matrix(1 0 0 1 502.13999999999999 703.66999999999996)" fill="rgb(255,255,255)" stroke="none"
+                stroke-width="1" />
+        </mask>
+    </g>
+</svg>
